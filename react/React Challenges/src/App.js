@@ -1,8 +1,15 @@
 import React from 'react'
+import { InfiniteScroll } from './machinecoding'
+import './Globals.css'
+import Header from './heading/Header'
 
 const App = () => {
   return (
-    <div>This is the Rishabh</div>
+    <>
+    <Header/>
+    {/* Here add the machinecoding folder name which you want to see or run  */}
+    <InfiniteScroll/>
+    </>
   )
 }
 
