@@ -1,1 +1,1 @@
-export const GITHUB_URL=''
+export const GITHUB_URL='https://github.com/rishabhkum-Dev-1799/js-machine-coding/blob/main/react/React%20Challenges/Readme.md'

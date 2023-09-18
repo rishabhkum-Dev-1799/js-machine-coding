@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <section className={styles.header}>
      <h1>React Machine Coding Questions</h1>
-     <a href={GITHUB_URL}>
+     <a href={GITHUB_URL} target='_blank'>
       <BsGithub size={30} color='white'/>
      </a>
     </section>

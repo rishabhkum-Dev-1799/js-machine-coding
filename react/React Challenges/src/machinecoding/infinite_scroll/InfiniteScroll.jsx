@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import styles from './Styles/InfiniteScroll.module.css'
-import useBookSearch from './hooks/useBookSearch';
-
 
 // Simple infinite scroll
 const InfiniteScroll = () => {
